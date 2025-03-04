@@ -19,7 +19,7 @@ The project follows a structured workflow:
    - Visualizing relationships between passenger attributes and survival rates  
 
 3. **Model Selection & Training**  
-   - Testing classification algorithms (Logistic Regression, Random Forest, XGBoost, etc.)  
+   - Testing classification algorithms (Logistic Regression, Random Forest, ΚΝΝ)  
    - Hyperparameter tuning for optimal performance  
 
 4. **Prediction & Evaluation**  
